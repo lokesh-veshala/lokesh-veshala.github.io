@@ -183,6 +183,7 @@ input, select, textarea {
 		display: flex;
 		justify-content: center;
 		align-items: center;
+		box-shadow: 0 0 20px rgba(0, 0, 0, 0.8);
 	}
 	p + ul {
 		margin-top: -25px;
